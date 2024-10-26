@@ -1,0 +1,42 @@
+header,
+nav,
+footer {
+  background-color: #0f2b41;
+  color: #ffffff;
+  text-align: center;
+}
+.button {
+  font-size: 25px;
+  height: 20px;
+  width: 20px;
+  background-color: #0f2b41;
+  border: none;
+  color: #ffffff;
+}
+
+header {
+  padding: 1rem;
+  text-align: center;
+}
+.title {
+  display: flex;
+}
+nav {
+  padding: 0.5rem;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+body {
+  background-color: #befdff;
+}
