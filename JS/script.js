@@ -27,7 +27,7 @@ const Navigation = () => {
 const Banner = () => {
   return (
     <div>
-      <img class="banner" src="images\principal.jpg" height="950" />
+      <img class="banner" src="https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/principal.jpg?alt=media&token=c84567b4-64e9-4612-91bb-312516c3befc" height="950" />
     </div>
   );
 };
@@ -49,11 +49,50 @@ const Welcome = () => {
 const MasVendido = () => {
   return (
     <div class="masVendido">
+      <br />
+      <br />
       <p>LO MÁS VENDIDO</p>
+      <br />
     </div>
   );
 };
 
-const Vendidos = () => {
-  return <div></div>;
-};
+const Vender =() => {
+  return (
+    <div className="flex items-center p-4 bg-white rounded-lg shadow-md space-x-4">
+      <img
+        src={srcimagen}
+        alt={title}
+        className="w-24 h-24 object-cover rounded"
+        loading="lazy"
+      />
+      <div className="flex-1">
+        <h5 className="text-lg font-bold text-gray-800">{title}</h5>
+        <p className="text-sm text-gray-600">{description}</p>
+        <small className="text-blue-600 font-semibold">{price}</small>
+      </div>
+    </div>
+  ) 
+}
+const CardList = ({ cardsData }) => (
+  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 p-4">
+    {cardsData.map((card, index) => (
+      <Card
+        key={index}
+        category={card.category}
+        srcimagen={card.src}
+        title={card.title}
+        description={card.description}
+        price={card.price}
+      />
+    ))}
+  </div>
+);
+
+const Footer =() => {
+  return (
+    <footer>
+    <p>&copy; 2024 Pets World. Todos los derechos reservados.</p>
+  </footer>
+  )
+}
