@@ -2,7 +2,10 @@ const Navigation = () => {
   return (
     <div>
       <header id="mainheader">
-        <img src="images/logo.png" height="100" alt="logo" />
+        <img
+          src="https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/Logo.png?alt=media&token=0c313088-0133-496a-ab6b-ae3334484415"
+          height="100"
+        />
       </header>
       <nav>
         <ul>
@@ -27,7 +30,11 @@ const Navigation = () => {
 const Banner = () => {
   return (
     <div>
-      <img class="banner" src="images\principal.jpg" height="950" />
+      <img
+        class="banner"
+        src="https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/principal.jpg?alt=media&token=c84567b4-64e9-4612-91bb-312516c3befc"
+        height="950"
+      />
     </div>
   );
 };
@@ -49,11 +56,18 @@ const Welcome = () => {
 const MasVendido = () => {
   return (
     <div class="masVendido">
+      <br />
+      <br />
       <p>LO MÁS VENDIDO</p>
+      <br />
     </div>
   );
 };
 
-const Vendidos = () => {
-  return <div></div>;
+const Footer = () => {
+  return (
+    <footer>
+      <p>&copy; 2024 Pets World. Todos los derechos reservados.</p>
+    </footer>
+  );
 };
