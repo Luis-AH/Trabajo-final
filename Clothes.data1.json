@@ -1,0 +1,20 @@
+[
+  {
+    "category": "cheesecake",
+    "title": "Rhubarb Pie",
+    "price": "$21.95",
+    "src": "https://firebasestorage.googleapis.com/v0/b/facilitomedia.appspot.com/o/imagenes%2Fproductos%2Fapplepiesmall.jpg?alt=media&token=ad95ce38-8894-4bb8-baa2-389dedc9ca44"
+  },
+  {
+    "category": "cheesecake",
+    "title": "Strawberry Pie",
+    "price": "$18.95",
+    "src": "https://firebasestorage.googleapis.com/v0/b/facilitomedia.appspot.com/o/imagenes%2Fproductos%2Fblueberrycheesecakesmall.jpg?alt=media&token=9f574429-5c32-4823-b10a-84fe0f8e3479"
+  },
+  {
+    "category": "cheesecake",
+    "title": "Strawberry Cheese Cake",
+    "price": "$18.95",
+    "src": "https://firebasestorage.googleapis.com/v0/b/facilitomedia.appspot.com/o/imagenes%2Fproductos%2Fcheesecake.jpg?alt=media&token=307e831f-90f1-4250-a460-2c7a09a8bdd3"
+  }
+]

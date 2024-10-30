@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif text-xs;
 }
 .banner {
   width: 100%;
@@ -14,23 +14,7 @@
 
 .inicio {
   height: 320px;
-  text-align: center;
-  color: #ffffff;
   background-color: #0f2b41;
-  display: grid;
-  justify-content: center;
-}
-h1 {
-  font-size: 70px;
-}
-.inicio p {
-  font-size: 35px;
-  width: 1000px;
-}
-
-p {
-  text-align: center;
-  font-size: 50px;
 }
 
 footer {
