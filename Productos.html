@@ -28,6 +28,7 @@
     <script type="text/babel" src="JS/script_mas_vendido.js"></script>
     <script type="text/babel" src="JS/script_footer.js"></script>
     <script type="text/babel" src="JS/script_shop.js"></script>
+    <script type="text/babel" src="JS/script.selector1.js"></script>
     <script type="text/babel" src="JS/responsive.js"></script>
     <script type="text/babel">
       class App extends React.Component {
@@ -39,7 +40,7 @@
         }
 
         componentDidMount() {
-          fetch("Clothes.data1.json")
+          fetch("pets.data1.json")
             .then((response) => response.json())
             .then((data) => {
               this.setState({ cardsData: data });
@@ -51,8 +52,15 @@
           return (
             <div className="flex flex-col min-h-screen">
               <Navigation />
-              <CardList cardsData={this.state.cardsData} />
-              <div className="flex-grow"></div>
+              <div class="grid grid-cols-3 lg:grid-rows-3 lg:grid-flow-col gap-4 lg:m-10">
+                <div class=" col-span-3 lg:row-span-3">
+                  <Selector1 />
+                </div>
+                <div class="col-span-3 lg:row-span-2 lg:col-span-2 ">
+                  <CardList cardsData={this.state.cardsData} />
+                </div>
+                <div className="flex-grow"></div>
+              </div>
               <Footer />
             </div>
           );

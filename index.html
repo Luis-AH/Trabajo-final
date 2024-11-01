@@ -28,16 +28,43 @@
     <script type="text/babel" src="JS/script_mas_vendido.js"></script>
     <script type="text/babel" src="JS/script_footer.js"></script>
     <script type="text/babel" src="JS/responsive.js"></script>
+    <script type="text/babel" src="JS/script_shop.js"></script>
+    <script type="text/babel" src="JS/script_botón.js"></script>
     <script type="text/babel">
-      const App = () => (
-        <div>
-          <Navigation />
-          <Banner />
-          <Welcome />
-          <MasVendido />
-          <Footer />
-        </div>
-      );
+      class App extends React.Component {
+        constructor(props) {
+          super(props);
+          this.state = {
+            cardsData: [],
+          };
+        }
+
+        componentDidMount() {
+          fetch("pets.data1.json")
+            .then((response) => response.json())
+            .then((data) => {
+              this.setState({ cardsData: data });
+            })
+            .catch((error) => console.error("hay un error", error));
+        }
+
+        render() {
+          return (
+            <div className>
+              <Navigation />
+              <Banner />
+              <Welcome />
+              <MasVendido />
+              <div class="mx-60">
+                <CardList cardsData={this.state.cardsData} />
+              </div>
+              <BotonMas />
+              <Footer />
+            </div>
+          );
+        }
+      }
+
       const root = ReactDOM.createRoot(document.getElementById("root"));
       root.render(<App />);
     </script>
