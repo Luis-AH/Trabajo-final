@@ -2,7 +2,7 @@ const Formulario = () => {
     return (
       <div class="grid justify-center h-auto px-20 py-8 min-[320px]:text-center max-[600px]:bg-sky-300">
          <form className="p-6 bg-white shadow-md rounded-lg space-y-4">
-      <label htmlFor="name" className="block text-lg font-medium text-gray-700">
+      <label htmlFor="name" className="block text-lg font-medium text-gray-700 grow">
         Nombre:
       </label>
       <input

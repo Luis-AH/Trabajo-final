@@ -58,5 +58,17 @@
     "title": "Play&Bite Tc Mini Chicken",
     "price": "s/.12.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/playbite-tc-mini-chicken.jpg?alt=media&token=e3685c3f-354c-49e9-931a-b9b637c69d80"
+  },
+  {
+    "category": "gato",
+    "title": "Firmunator Personal Hair Sweeper ",
+    "price": "s/.115.90",
+    "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/furminator-personal-hair-sweeper.jpg?alt=media&token=833c449e-1a72-4d8f-a5a2-4fb798709c9a"
+  },
+  {
+    "category": "perro",
+    "title": "Accecan-bozal de metal",
+    "price": "s/.36.90",
+    "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/PS000876_m1.jpg?alt=media&token=22079f7f-33e1-4c07-b07b-43087dff6eeb"
   }
 ]
