@@ -41,7 +41,7 @@
         }
 
         componentDidMount() {
-          fetch("pets.data1.json")
+          fetch("pets.data2.json")
             .then((response) => response.json())
             .then((data) => {
               this.setState({ cardsData: data });
