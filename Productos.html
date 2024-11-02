@@ -30,6 +30,7 @@
     <script type="text/babel" src="JS/script_shop.js"></script>
     <script type="text/babel" src="JS/script.selector1.js"></script>
     <script type="text/babel" src="JS/responsive.js"></script>
+    <script src="JS/category.js"></script>
     <script type="text/babel">
       class App extends React.Component {
         constructor(props) {
@@ -52,8 +53,8 @@
           return (
             <div className="flex flex-col min-h-screen">
               <Navigation />
-              <div class="grid grid-cols-3 lg:grid-rows-3 lg:grid-flow-col gap-4 lg:m-10">
-                <div class=" col-span-3 lg:row-span-3">
+              <div class="grid grid-cols-3 lg:grid-rows-3 lg:grid-flow-col gap-4 lg:m-24">
+                <div class=" col-span-1 lg:row-span-2">
                   <Selector1 />
                 </div>
                 <div class="col-span-3 lg:row-span-2 lg:col-span-2 ">
