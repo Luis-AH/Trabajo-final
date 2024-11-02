@@ -46,5 +46,17 @@
     "title": "Mpets Chester Casa Para Hamster",
     "price": "s/.17.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/small-life-bola-ejercicio-125.jpg?alt=media&token=2110a223-0c80-423b-9cf8-97d551c0b5c9"
+  },
+  {
+    "category": "masPequeños",
+    "title": "Mpets Training Wheel Rueda Para Roedores",
+    "price": "s/.20.90",
+    "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/Mpets%20Training%20Wheel%201.jpg?alt=media&token=a0aec6e5-e95e-4034-a53d-da5a1ebc9c23"
+  },
+  {
+    "category": "perro",
+    "title": "Play&Bite Tc Mini Chicken",
+    "price": "s/.12.90",
+    "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/playbite-tc-mini-chicken.jpg?alt=media&token=e3685c3f-354c-49e9-931a-b9b637c69d80"
   }
 ]
