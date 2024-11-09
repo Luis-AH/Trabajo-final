@@ -1,6 +1,8 @@
 [
   {
     "id": "1",
+    "type": "alimento",
+    "age": "",
     "category": "perro",
     "title": "Canbo Adulto Cordero Razas",
     "price": "s/.214",
@@ -8,6 +10,8 @@
   },
   {
     "id": "2",
+    "type": "salud",
+    "age": "",
     "category": "gato",
     "title": "Arena Para Gato Klinkat 5kg",
     "price": "s/.17.90",
@@ -15,6 +19,8 @@
   },
   {
     "id": "3",
+    "type": "casa",
+    "age": "",
     "category": "masPequeños",
     "title": "Mpets Chester Casa Para Hamster",
     "price": "s/.269.90",
@@ -22,6 +28,8 @@
   },
   {
     "id": "4",
+    "type": "salud",
+    "age": "",
     "category": "gato",
     "title": "Dragpharma Tidy Gatos Shampoo Seco X100 Gr PE00014",
     "price": "S/.18.90",
@@ -29,6 +37,8 @@
   },
   {
     "id": "5",
+    "type": "accesorio",
+    "age": "",
     "category": "gato",
     "title": "Catalogo Arnes De Gato + Correa Negro",
     "price": "s/.34.90",
@@ -36,6 +46,8 @@
   },
   {
     "id": "6",
+    "type": "accesorio",
+    "age": "",
     "category": "gato",
     "title": "The Cat Band Raton De Peluche (Modelos aleatorios)",
     "price": "s/.3.90",
@@ -43,6 +55,8 @@
   },
   {
     "id": "7",
+    "type": "salud",
+    "age": "",
     "category": "perro",
     "title": "Proteggo 3m 250 Mg para Perro 4.5 10kg (Cja X 1 Tab",
     "price": "s/.127.90",
@@ -50,6 +64,8 @@
   },
   {
     "id": "8",
+    "type": "casa",
+    "age": "",
     "category": "masPequeños",
     "title": "Mpets Chester Casa Para Hamster",
     "price": "s/.17.90",
@@ -57,6 +73,8 @@
   },
   {
     "id": "9",
+    "type": "accesorio",
+    "age": "",
     "category": "masPequeños",
     "title": "Mpets Training Wheel Rueda Para Roedores",
     "price": "s/.20.90",
@@ -64,6 +82,8 @@
   },
   {
     "id": "10",
+    "type": "accesorio",
+    "age": "",
     "category": "perro",
     "title": "Play&Bite Tc Mini Chicken",
     "price": "s/.12.90",
@@ -71,6 +91,8 @@
   },
   {
     "id": "11",
+    "type": "salud",
+    "age": "",
     "category": "gato",
     "title": "Firmunator Personal Hair Sweeper ",
     "price": "s/.115.90",
@@ -78,6 +100,8 @@
   },
   {
     "id": "12",
+    "type": "accesorio",
+    "age": "",
     "category": "perro",
     "title": "Accecan-bozal de metal",
     "price": "s/.36.90",
@@ -85,6 +109,8 @@
   },
   {
     "id": "13",
+    "type": "accesorio",
+    "age": "",
     "category": "gato",
     "title": "Rascat catnip orgánico ",
     "price": "s/.23.90",
@@ -92,6 +118,8 @@
   },
   {
     "id": "14",
+    "type": "accesorio",
+    "age": "",
     "category": "masPequeños",
     "title": "Bebedero De Vidrio Pequeñas Mascotas 350 Ml",
     "price": "s/.24.90",
@@ -99,6 +127,8 @@
   },
   {
     "id": "15",
+    "type": "salud",
+    "age": "",
     "category": "perro",
     "title": "Dentalife Dogs Small Breed 42gr Cuidado Oral Raza Pequeña ",
     "price": "s/.10.90",
@@ -106,6 +136,8 @@
   },
   {
     "id": "16",
+    "type": "salud",
+    "age": "",
     "category": "perro",
     "title": "Bolsas Recoge Fecas Compostable Verdes 60 Und ",
     "price": "s/.14.90",
@@ -113,6 +145,8 @@
   },
   {
     "id": "17",
+    "type": "alimento",
+    "age": "",
     "category": "gato",
     "title": "Churu Sabor Atún con Salmón 60Gr",
     "price": "s/.12.90",

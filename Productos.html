@@ -19,6 +19,22 @@
     <link rel="stylesheet" href="CSS/style navigation.css" />
     <link rel="stylesheet" href="CSS/style.css" />
     <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      /* Añadir estilos para alinear el menú y las tarjetas */
+      .filter-container {
+        display: flex;
+        align-items: flex-start;
+        gap: 20px;
+      }
+
+      .category-filter {
+        min-width: 200px;
+      }
+
+      .cards-grid {
+        flex-grow: 1;
+      }
+    </style>
   </head>
   <body>
     <div id="root"></div>
@@ -52,7 +68,7 @@
           return (
             <div className="flex flex-col ">
               <Navigation />
-              <div class="grid lg:grid-rows-2 lg:grid-flow-col gap-4 lg:m-24">
+              <div class="grid lg:grid-rows-1 lg:grid-flow-col gap-4 my-40 mx-80">
                 <CardList cardsData={this.state.cardsData} />
               </div>
               <Footer />
