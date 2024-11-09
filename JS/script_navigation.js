@@ -9,17 +9,17 @@ const Navigation = () => {
         />
       </header>
       <nav>
-        <ul>
-          <li>
+        <ul class="grid">
+          <li class="m-1 border-b-4 border-sky-700">
             <a href="index.html">Inicio</a>
           </li>
-          <li>
+          <li class="m-1 border-b-4 border-sky-700">
             <a href="Productos.html">Productos</a>
           </li>
-          <li>
+          <li class="m-1 border-b-4 border-sky-700">
             <a href="Acerca-de.html">Acerca de</a>
           </li>
-          <li>
+          <li class="m-1 border-b-4 border-sky-700">
             <a href="Contacto.html">Contáctanos</a>
           </li>
         </ul>

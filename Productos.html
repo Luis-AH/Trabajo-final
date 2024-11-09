@@ -28,7 +28,6 @@
     <script type="text/babel" src="JS/script_mas_vendido.js"></script>
     <script type="text/babel" src="JS/script_footer.js"></script>
     <script type="text/babel" src="JS/script_shop.js"></script>
-    <script type="text/babel" src="JS/script.selector1.js"></script>
     <script type="text/babel" src="JS/responsive.js"></script>
     <script src="JS/category.js"></script>
     <script type="text/babel">
@@ -51,16 +50,10 @@
 
         render() {
           return (
-            <div className="flex flex-col min-h-screen">
+            <div className="flex flex-col ">
               <Navigation />
-              <div class="grid grid-cols-3 lg:grid-rows-3 lg:grid-flow-col gap-4 lg:m-24">
-                <div class=" col-span-1 lg:row-span-2">
-                  <Selector1 />
-                </div>
-                <div class="col-span-3 lg:row-span-2 lg:col-span-2 ">
-                  <CardList cardsData={this.state.cardsData} />
-                </div>
-                <div className="flex-grow"></div>
+              <div class="grid lg:grid-rows-2 lg:grid-flow-col gap-4 lg:m-24">
+                <CardList cardsData={this.state.cardsData} />
               </div>
               <Footer />
             </div>

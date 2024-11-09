@@ -1,3 +1,5 @@
+document.addEventListener("DOMContentLoaded", function () {});
+
 const Selector1 = () => {
   return (
     <div class="grid justify-center lg:my-20">

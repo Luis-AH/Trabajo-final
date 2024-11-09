@@ -20,14 +20,12 @@ const AboutContent = () => {
         {/* Contenido Principal */}
         <div className="space-y-6 text-base md:text-lg mb-12">
           <p>
-            La Guarida de Antibush es una plataforma líder en la organización de
-            torneos de esports y venta de productos gaming en Latinoamérica.
+            PetsWorld es una cadena de tiendas de mascotas que esta presente en
+            varios distritos de la capital.
           </p>
           <p>
-            Fundada en 2024, nos dedicamos a crear experiencias competitivas
-            únicas para jugadores de todos los niveles, proporcionando un
-            ambiente seguro y profesional para el desarrollo del gaming
-            competitivo.
+            Fundada en 2015, nuestro objetivo es ofrecer todo lo que necesitan
+            las mascotas, desde alimento hasta medicinas a precios cómodos.
           </p>
         </div>
       </div>

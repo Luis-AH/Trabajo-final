@@ -1,59 +1,69 @@
 [
   {
+    "id": "1",
     "category": "perro",
     "title": "Canbo Adulto Cordero Razas",
     "price": "s/.214",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/-canbo-adulto-cordero-razas-med-gran.jpg?alt=media&token=e6e6a861-e2bb-4e08-9087-2f518a6ee325"
   },
   {
+    "id": "2",
     "category": "gato",
     "title": "Arena Para Gato Klinkat 5kg",
     "price": "s/.17.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/-klinkat-arena-para-gatos.jpg?alt=media&token=e6d9d167-1787-4a5f-a6a8-fa1539e5888b"
   },
   {
+    "id": "3",
     "category": "masPequeños",
     "title": "Mpets Chester Casa Para Hamster",
     "price": "s/.269.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/Mpets%20Chester%201.jpg?alt=media&token=81b11a5f-3b50-43d3-a015-b653e789f01f"
   },
   {
+    "id": "4",
     "category": "gato",
     "title": "Dragpharma Tidy Gatos Shampoo Seco X100 Gr PE00014",
     "price": "S/.18.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/dragpharma-tidy-gatos-shampoo-seco-x-100-gr-pe0014.jpg?alt=media&token=ddec2512-bf30-444b-a5cd-89706ca0bab2"
   },
   {
+    "id": "5",
     "category": "gato",
     "title": "Catalogo Arnes De Gato + Correa Negro",
     "price": "s/.34.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/lets-go-cat-harness-leash-set-black.jpg?alt=media&token=53f38a4a-12e7-4a95-be2b-8664e6e7c432"
   },
   {
+    "id": "6",
     "category": "gato",
     "title": "The Cat Band Raton De Peluche (Modelos aleatorios)",
     "price": "s/.3.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/The%20Cat%20Band%20Raton%20MD005238.jpg?alt=media&token=478a32c2-3703-4711-9968-f2851c73293a"
   },
   {
+    "id": "7",
     "category": "perro",
     "title": "Proteggo 3m 250 Mg para Perro 4.5 10kg (Cja X 1 Tab",
     "price": "s/.127.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/proteggo-3m-250-mg-cja-x-1-tab.jpg?alt=media&token=ebcbd49d-52a8-41a3-9edb-d556a59434f5"
   },
   {
+    "id": "8",
     "category": "masPequeños",
     "title": "Mpets Chester Casa Para Hamster",
     "price": "s/.17.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/small-life-bola-ejercicio-125.jpg?alt=media&token=2110a223-0c80-423b-9cf8-97d551c0b5c9"
   },
   {
+    "id": "9",
     "category": "masPequeños",
     "title": "Mpets Training Wheel Rueda Para Roedores",
     "price": "s/.20.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/Mpets%20Training%20Wheel%201.jpg?alt=media&token=a0aec6e5-e95e-4034-a53d-da5a1ebc9c23"
   },
   {
+    "id": "10",
     "category": "perro",
     "title": "Play&Bite Tc Mini Chicken",
     "price": "s/.12.90",
