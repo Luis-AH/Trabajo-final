@@ -27,38 +27,35 @@
     <script type="text/babel" src="JS/script_welcome.js"></script>
     <script type="text/babel" src="JS/script_mas_vendido.js"></script>
     <script type="text/babel" src="JS/script_footer.js"></script>
+    <script type="text/babel" src="JS/script_shop.js"></script>
     <script type="text/babel" src="JS/responsive.js"></script>
-    <script type="text/babel" src="JS/script_shop2.js"></script>
-    <script type="text/babel" src="JS/script_botón.js"></script>
+    <script type="text/babel" src="JS/donaciones.js"></script>
+    <script src="JS/category.js"></script>
     <script type="text/babel">
       class App extends React.Component {
         constructor(props) {
           super(props);
           this.state = {
-            cardsData: [],
+            petsData: [],
           };
         }
 
         componentDidMount() {
-          fetch("pets.data2.json")
+          fetch("pets.data3.json")
             .then((response) => response.json())
             .then((data) => {
-              this.setState({ cardsData: data });
+              this.setState({ petsData: data });
             })
             .catch((error) => console.error("hay un error", error));
         }
 
         render() {
           return (
-            <div className>
+            <div className="flex flex-col ">
               <Navigation />
-              <Banner />
-              <Welcome />
-              <MasVendido />
-              <div class="mx-60">
-                <CardList cardsData={this.state.cardsData} />
+              <div class="grid lg:grid-rows-2 lg:grid-flow-col gap-4 lg:m-24">
+                <PetList petsData={this.state.petsData} />
               </div>
-              <BotonMas />
               <Footer />
             </div>
           );

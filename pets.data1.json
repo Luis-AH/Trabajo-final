@@ -68,5 +68,54 @@
     "title": "Play&Bite Tc Mini Chicken",
     "price": "s/.12.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/playbite-tc-mini-chicken.jpg?alt=media&token=e3685c3f-354c-49e9-931a-b9b637c69d80"
+  },
+  {
+    "id": "11",
+    "category": "gato",
+    "title": "Firmunator Personal Hair Sweeper ",
+    "price": "s/.115.90",
+    "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/furminator-personal-hair-sweeper.jpg?alt=media&token=833c449e-1a72-4d8f-a5a2-4fb798709c9a"
+  },
+  {
+    "id": "12",
+    "category": "perro",
+    "title": "Accecan-bozal de metal",
+    "price": "s/.36.90",
+    "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/PS000876_m1.jpg?alt=media&token=22079f7f-33e1-4c07-b07b-43087dff6eeb"
+  },
+  {
+    "id": "13",
+    "category": "gato",
+    "title": "Rascat catnip orgánico ",
+    "price": "s/.23.90",
+    "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/25GR1_MD008173_m.jpg?alt=media&token=18f03e8a-c2d2-4146-b4c1-48e9b560a6b4"
+  },
+  {
+    "id": "14",
+    "category": "masPequeños",
+    "title": "Bebedero De Vidrio Pequeñas Mascotas 350 Ml",
+    "price": "s/.24.90",
+    "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/PS000814.jpg?alt=media&token=7e4364a3-192f-45c1-8adf-767975b715da"
+  },
+  {
+    "id": "15",
+    "category": "perro",
+    "title": "Dentalife Dogs Small Breed 42gr Cuidado Oral Raza Pequeña ",
+    "price": "s/.10.90",
+    "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/dentalife-dogs-breed-medium-7-x-119g-cuidado-oral-raza-mediana.jpg?alt=media&token=a4269907-543d-4676-8d4f-d5a5df2c8272"
+  },
+  {
+    "id": "16",
+    "category": "perro",
+    "title": "Bolsas Recoge Fecas Compostable Verdes 60 Und ",
+    "price": "s/.14.90",
+    "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/mpets-poo-dog-waste-bags-white-bolsas-4x60bags.jpg?alt=media&token=ac5e932b-0488-4c2b-b0e8-9f008ea7b41a"
+  },
+  {
+    "id": "17",
+    "category": "gato",
+    "title": "Churu Sabor Atún con Salmón 60Gr",
+    "price": "s/.12.90",
+    "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/AG000489.jpg?alt=media&token=6edf998d-fe5f-4eaf-a7dd-3861a5c0437c"
   }
 ]

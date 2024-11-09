@@ -22,6 +22,9 @@ const Navigation = () => {
           <li class="m-1 border-b-4 border-sky-700">
             <a href="Contacto.html">Contáctanos</a>
           </li>
+          <li class="m-1 border-b-4 border-sky-700">
+            <a href="donaciones.html">Donaciones</a>
+          </li>
         </ul>
       </nav>
     </div>
