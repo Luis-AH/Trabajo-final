@@ -98,7 +98,7 @@ const CardList = ({ cardsData }) => {
       </div>
 
       {/* Renderizado de tarjetas filtradas */}
-      <div className="cards-grid grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-1 lg:grid-cols-2 xl:grid-cols-4 xl:gap-x-8 min-[320px]:text-center max-[600px]:bg-sky-300">
+      <div className="cards-grid grid grid-cols-2 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 xl:gap-x-8 min-[320px]:text-center max-[600px]:bg-sky-300">
         {filteredCards.map((card, index) => (
           <Card
             key={index}

@@ -20,7 +20,7 @@ const Card = ({ category, srcimagen, title, description, price }) => {
 };
 
 const CardList = ({ cardsData }) => (
-  <div className="grid grid-cols-2 gap-x-6 gap-y-10 sm:grid-cols-1 xl:grid-cols-4 xl:gap-x-8 min-[320px]:text-center max-[600px]:bg-sky-300">
+  <div className="grid grid-cols-2 gap-x-6 gap-y-10 sm:grid-cols-3 xl:grid-cols-4 xl:gap-x-8 min-[320px]:text-center max-[600px]:bg-sky-300">
     {cardsData.map((card, index) => (
       <Card
         key={index}
