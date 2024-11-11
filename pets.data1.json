@@ -4,6 +4,7 @@
     "type": "alimento",
     "age": "adulto",
     "category": "perro",
+    "description": "Alimento seco sabor a cordero, la mejor elección para tu consentido engreído. Con cordero, 26% de proteína, vitaminas y minerales, estas croquetas ideales para razas medianas y grandes le brindan a tu consentido inmunidad, dientes brillantes y desarrollo muscular.",
     "title": "Canbo Adulto Cordero Razas",
     "price": "s/.214",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/-canbo-adulto-cordero-razas-med-gran.jpg?alt=media&token=e6e6a861-e2bb-4e08-9087-2f518a6ee325"
@@ -13,6 +14,7 @@
     "type": "salud",
     "age": "todas",
     "category": "gato",
+    "description": "Arena aglomerante a base de bentonita de alta calidad sin aditivos ni químicos.",
     "title": "Arena Para Gato Klinkat 5kg",
     "price": "s/.17.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/-klinkat-arena-para-gatos.jpg?alt=media&token=e6d9d167-1787-4a5f-a6a8-fa1539e5888b"
@@ -22,6 +24,7 @@
     "type": "casa",
     "age": "todas",
     "category": "masPequeños",
+    "description": "Jaula para hámsters m-pets chester es una jaula para hámsters. Esta jaula está equipada con una rueda de jogging que gusta a los hámsters, tiene incluido un comedor y bebedero.",
     "title": "Mpets Chester Casa Para Hamster",
     "price": "s/.269.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/Mpets%20Chester%201.jpg?alt=media&token=81b11a5f-3b50-43d3-a015-b653e789f01f"
@@ -31,6 +34,7 @@
     "type": "salud",
     "age": "adulto",
     "category": "gato",
+    "description": "Shampoo seco para gatos. Tidy® está especialmente formulado para aseo en seco.",
     "title": "Dragpharma Tidy Gatos Shampoo Seco X100 Gr PE00014",
     "price": "S/.18.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/dragpharma-tidy-gatos-shampoo-seco-x-100-gr-pe0014.jpg?alt=media&token=ddec2512-bf30-444b-a5cd-89706ca0bab2"
@@ -40,6 +44,7 @@
     "type": "accesorio",
     "age": "adulto",
     "category": "gato",
+    "description": "A medida que más y más dueños de gatos salen al aire libre con sus amigos felinos, Mpets quiere que sea una experiencia cómoda para todos. Este arnés de estilo envolvente está hecho de tela transpirable y se ajusta completamente para adaptarse a la forma única de cada gatito y garantizar un ajuste ceñido que ayuda a reducir la ansiedad.",
     "title": "Catalogo Arnes De Gato + Correa Negro",
     "price": "s/.34.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/lets-go-cat-harness-leash-set-black.jpg?alt=media&token=53f38a4a-12e7-4a95-be2b-8664e6e7c432"
@@ -49,6 +54,7 @@
     "type": "accesorio",
     "age": "todas",
     "category": "gato",
+    "description": "Ratón de peluche. Colores disponibles: blanco, negro y gris. Recibirás un color y/o diseño al azar según stock.",
     "title": "The Cat Band Raton De Peluche (Modelos aleatorios)",
     "price": "s/.3.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/The%20Cat%20Band%20Raton%20MD005238.jpg?alt=media&token=478a32c2-3703-4711-9968-f2851c73293a"
@@ -58,6 +64,7 @@
     "type": "salud",
     "age": "adulto",
     "category": "perro",
+    "description": "Tableta blanda masticable altamente palatable. Antiparasitario externo de uso oral, en forma de tableta blanda masticable. 1 tableta masticable para perros de 4.5 kg a 10 kg.",
     "title": "Proteggo 3m 250 Mg para Perro 4.5 10kg (Cja X 1 Tab",
     "price": "s/.127.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/proteggo-3m-250-mg-cja-x-1-tab.jpg?alt=media&token=ebcbd49d-52a8-41a3-9edb-d556a59434f5"
@@ -67,7 +74,8 @@
     "type": "casa",
     "age": "todas",
     "category": "masPequeños",
-    "title": "Mpets Chester Casa Para Hamster",
+    "description": "Bola de ejercicio y de diversión para roedores.",
+    "title": "Small Life Bola Ejercicio 12.5",
     "price": "s/.17.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/small-life-bola-ejercicio-125.jpg?alt=media&token=2110a223-0c80-423b-9cf8-97d551c0b5c9"
   },
@@ -76,6 +84,7 @@
     "type": "accesorio",
     "age": "adulto",
     "category": "masPequeños",
+    "description": "Rueda para mascotas pequeñas como hámsters, ratones, ratas, jerbos, etc.",
     "title": "Mpets Training Wheel Rueda Para Roedores",
     "price": "s/.20.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/Mpets%20Training%20Wheel%201.jpg?alt=media&token=a0aec6e5-e95e-4034-a53d-da5a1ebc9c23"
@@ -85,6 +94,7 @@
     "type": "accesorio",
     "age": "todas",
     "category": "perro",
+    "description": "Juguete para perros de vinilo en forma de un pequeño pollo.",
     "title": "Play&Bite Tc Mini Chicken",
     "price": "s/.12.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/playbite-tc-mini-chicken.jpg?alt=media&token=e3685c3f-354c-49e9-931a-b9b637c69d80"
@@ -93,7 +103,8 @@
     "id": "11",
     "type": "salud",
     "age": "adulto",
-    "category": "gato",
+    "category": "perro",
+    "description": "Ideal para abrigos medianos, largos y rizados para quitar las esteras superficiales y los enredos sin dañar el abrigo.",
     "title": "Firmunator Personal Hair Sweeper ",
     "price": "s/.115.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/furminator-personal-hair-sweeper.jpg?alt=media&token=833c449e-1a72-4d8f-a5a2-4fb798709c9a"
@@ -103,6 +114,7 @@
     "type": "accesorio",
     "age": "adulto",
     "category": "perro",
+    "description": "El Bozal de Metal está diseñado para proporcionar comodidad y seguridad a las mascotas durante paseos al aire libre, visitas al veterinario o interacciones sociales. Fabricado con materiales de alta calidad, este bozal ofrece una solución efectiva para controlar el comportamiento de tu mascota de manera segura.",
     "title": "Accecan-bozal de metal",
     "price": "s/.36.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/PS000876_m1.jpg?alt=media&token=22079f7f-33e1-4c07-b07b-43087dff6eeb"
@@ -112,6 +124,7 @@
     "type": "accesorio",
     "age": "adulto",
     "category": "gato",
+    "description": "Hierba (oficialmente conocida como Nepeta cataria) que causa excitación, alegria y ganas de jugar en los felinos",
     "title": "Rascat catnip orgánico ",
     "price": "s/.23.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/25GR1_MD008173_m.jpg?alt=media&token=18f03e8a-c2d2-4146-b4c1-48e9b560a6b4"
@@ -121,6 +134,7 @@
     "type": "accesorio",
     "age": "todas",
     "category": "masPequeños",
+    "description": "Bebedero de vidrio higiénico y a prueba de fugas. La botella de agua de vidrio es a prueba de masticación, manteniendo el plástico dañino lejos de su animal. Ideal para muchos animales: conejos, hurones, chinchillas, conejillos de indias y pájaros pueden usar esta botella de agua de vidrio. Medida: 350 ml",
     "title": "Bebedero De Vidrio Pequeñas Mascotas 350 Ml",
     "price": "s/.24.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/PS000814.jpg?alt=media&token=7e4364a3-192f-45c1-8adf-767975b715da"
@@ -130,6 +144,7 @@
     "type": "salud",
     "age": "todas",
     "category": "perro",
+    "description": "DentaLife Dental Treats ayudan a combatir el mal aliento y prevenir la acumulación de sarro.",
     "title": "Dentalife Dogs Small Breed 42gr Cuidado Oral Raza Pequeña ",
     "price": "s/.10.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/dentalife-dogs-breed-medium-7-x-119g-cuidado-oral-raza-mediana.jpg?alt=media&token=a4269907-543d-4676-8d4f-d5a5df2c8272"
@@ -139,6 +154,7 @@
     "type": "salud",
     "age": "todas",
     "category": "perro",
+    "description": "POO BIO Dog Waste Bags Lavender Scented son bolsas biodegradables para recoger las heces de tu mascota, gracias al proceso ecológico por el que ha sido elaborado no se necesitan aditivos ni fragmentos para permanecer en el medio ambiente, quiere decir que la biodegradación del producto es mucho mas rápida a diferencia de otras bolsas desechables.",
     "title": "Bolsas Recoge Fecas Compostable Verdes 60 Und ",
     "price": "s/.14.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/mpets-poo-dog-waste-bags-white-bolsas-4x60bags.jpg?alt=media&token=ac5e932b-0488-4c2b-b0e8-9f008ea7b41a"
@@ -148,6 +164,7 @@
     "type": "alimento",
     "age": "todas",
     "category": "gato",
+    "description": "Churu Sabor Atún con Salmón 60g es un irresistible snack cremoso para gatos que combina el auténtico sabor del atún con el delicioso salmón. Este tentador premio satisfará el paladar de tu felino mientras le proporciona un momento de placer. ¡Compra ahora y consiente a tu gato con esta exquisita combinación de sabores marinos!",
     "title": "Churu Sabor Atún con Salmón 60Gr",
     "price": "s/.12.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/AG000489.jpg?alt=media&token=6edf998d-fe5f-4eaf-a7dd-3861a5c0437c"
