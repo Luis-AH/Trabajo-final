@@ -1,9 +1,13 @@
 [
   {
+    "title": "Ayuda a los animales afectados por DANA en España",
+    "description": "Las inundaciones causadas por la DANA destruyó varios refugios y protectoras de animales",
     "id": "1",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/2.jpg?alt=media&token=d5a6170b-981a-41b6-9652-b8f04187745e"
   },
   {
+    "title": "Ayuda a los animales afectados por el huracán Milton",
+    "description": "El huracán Milton ha dejado a muchos refugios de animales sin suministros para los animales",
     "id": "2",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/3.jpeg?alt=media&token=6e929b7a-ead9-4faa-b991-da3af886f62e"
   },
