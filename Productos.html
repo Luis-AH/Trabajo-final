@@ -49,7 +49,7 @@
         cursor: pointer;
         font-size: 30px;
       }
-      @media (min-width: 1024px) {
+      @media (min-width: 1650px) {
         .filter-container {
           display: flex;
           align-items: flex-start;
@@ -97,7 +97,9 @@
           return (
             <div className="flex flex-col ">
               <Navigation />
-              <div class="grid lg:grid-rows-1 lg:grid-flow-col gap-4 my-40 mx-10 lg:mx-80">
+              <Banner2 />
+              <Shop />
+              <div class="grid lg:grid-rows-1 lg:grid-flow-col  gap-4 md:mx-20 my-20 lg:mx-16 2xl:my-30 mx-10 xl:mx-64 2xl:mx-72">
                 <CardList cardsData={this.state.cardsData} />
               </div>
               <Footer />

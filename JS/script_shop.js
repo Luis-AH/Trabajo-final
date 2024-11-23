@@ -11,7 +11,7 @@ const Card = ({
 }) => {
   return (
     <div
-      className="pet text-center justify-center rounded-md mx-auto bg-white max-w-2xl px-2 py-5 sm:px-6 sm:py-20 lg:max-w-7xl lg:px-8 "
+      className="pet text-center justify-center rounded-md mx-auto bg-white max-w-2xl px-2 py-5 sm:px-6 sm:py-10 lg:max-w-7xl lg:px-8 "
       onClick={onClick}
       style={{ cursor: "pointer" }}
     >
@@ -19,14 +19,12 @@ const Card = ({
         <img
           src={srcimagen}
           alt={title}
-          className="min-w-16 md:w-32 lg:w-48 object-cover object-center group-hover:opacity-75"
+          className=" md:w-32 lg:w-48 object-cover object-center group-hover:opacity-75"
         />
       </div>
       <div className="grid text-center justify-center">
         <h5 className="w-32 text-sm text-gray-700">{title}</h5>
-        <small className="mt-1 text-lg font-medium text-gray-900">
-          {price}
-        </small>
+        <small className="mt-1 text-lg font-bold text-gray-900">{price}</small>
       </div>
     </div>
   );
@@ -38,7 +36,7 @@ const Modal = ({ product, onClose }) => (
       <span className="close-button" onClick={onClose}>
         &times;
       </span>
-      <h1>{product.title}</h1>
+      <h1 class="text-xl font-bold">{product.title}</h1>
       <img
         src={product.src}
         alt={product.title}
@@ -46,18 +44,22 @@ const Modal = ({ product, onClose }) => (
       />
       <p>{product.description}</p>
       <br />
-      <p>{product.price}</p>
+      <p class="text-2xl font-extrabold">{product.price}</p>
+      <br />
       <div class="flex justify-center m-auto">
-        <button class="p-2 rounded-md bg-sky-950 hover:bg-sky-600 text-white xl:text-xl">
-          Comprar
-        </button>
+        <a
+          href="error.html"
+          class="font-bold py-2 px-10 rounded-md bg-sky-950 hover:bg-sky-600 text-white xl:text-xl"
+        >
+          COMPRAR
+        </a>
       </div>
     </div>
   </div>
 );
 
 const CardList = ({ cardsData }) => {
-  <div className="grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-1 lg:grid-cols-2 xl:grid-cols-4 xl:gap-x-8 min-[320px]:text-center max-[600px]:bg-sky-300">
+  <div className="grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-1 lg:grid-cols-2 xl:grid-cols-4 xl:gap-x-8 min-[320px]:text-center">
     {cardsData.map((card, index) => (
       <Card
         key={index}
@@ -105,14 +107,14 @@ const CardList = ({ cardsData }) => {
       {/* Selector de categoría */}
       <div className="grid">
         <div className="category-filter grid">
-          <label class="text-lg" htmlFor="category-filter">
+          <label class="font-semibold text-lg" htmlFor="category-filter">
             Filtrar por categoría:
           </label>
           <select
             id="category-filter"
             onChange={handleCategoryChange}
             value={selectedCategory}
-            class="m-1 rounded-md lg:text-lg w-80 xl:w-48 py-2 hover:bg-sky-700 hover:text-white"
+            class="m-1 rounded-md lg:text-lg w-full py-2 hover:bg-sky-700 hover:text-white"
           >
             <option value="">Tipo de mascota</option>
             <option value="perro">Perro</option>
@@ -127,7 +129,7 @@ const CardList = ({ cardsData }) => {
             id="type-filter"
             onChange={handleTypeChange}
             value={selectedType}
-            class="m-1 rounded-md lg:text-lg w-80 xl:w-48 py-2 hover:bg-sky-700 hover:text-white"
+            class="m-1 rounded-md lg:text-lg w-full py-2 hover:bg-sky-700 hover:text-white"
           >
             <option value="">Tipo de producto</option>
             <option value="alimento">Alimentos</option>
@@ -142,7 +144,7 @@ const CardList = ({ cardsData }) => {
             id="age-filter"
             onChange={handleAgeChange}
             value={selectedAge}
-            class="m-1 rounded-md lg:text-lg w-80 xl:w-48 py-2 hover:bg-sky-700 hover:text-white"
+            class="m-1 rounded-md lg:text-lg w-full py-2 hover:bg-sky-700 hover:text-white"
           >
             <option value="">Edad</option>
             <option value="pequeño">pequeños</option>
@@ -155,7 +157,7 @@ const CardList = ({ cardsData }) => {
       </div>
 
       {/* Renderizado de tarjetas filtradas */}
-      <div className="cards-grid grid grid-cols-2 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 xl:gap-x-8 min-[320px]:text-center max-[600px]:bg-sky-300">
+      <div className="cards-grid grid grid-cols-2 gap-x-6 gap-y-10  lg:grid-cols-3 xl:grid-cols-4 xl:gap-x-8 min-[320px]:text-center">
         {filteredCards.map((card, index) => (
           <Card
             key={index}
