@@ -208,5 +208,95 @@
     "title": "Equilibrio Kittens Gatitos Alimento Seco Gato",
     "price": "s/.79.00",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/equilibrio-kittens.jpg?alt=media&token=a8a56ce5-7c2f-4f07-b43b-5e342cf91d45"
+  },
+  {
+    "id": "22",
+    "type": "alimento",
+    "age": "adulto",
+    "category": "gato",
+    "description": "Alimento exclusivo elaborado con un balance de nutrientes esenciales para la alimentación del gato esterilizado.",
+    "title": "Canbo Cuidado De Esterilizados / Sterilized Care Alimento Seco Gato",
+    "price": "s/.35.90",
+    "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/canbo-cuidado-de-esterilizados-sterilized-care-1kg.jpg?alt=media&token=005df9d8-b618-4674-8dd6-fbdb19acfce3"
+  },
+  {
+    "id": "23",
+    "type": "casa",
+    "age": "todas",
+    "category": "masPequeños",
+    "description": "Hábitat para animales pequeños con tapas bien ventiladas. Talla L: 28,1 x 18,1 x 18 cm Peso máximo 5.2 kg",
+    "title": "Habitat Pequeñas Mascotas L 28,1 X 18,1 X 18 Cm",
+    "price": "s/.34.90",
+    "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/PS000818.jpg?alt=media&token=2b3426b1-af16-4e4d-ac0e-404890d65e34"
+  },
+  {
+    "id": "24",
+    "type": "alimento",
+    "age": "todas",
+    "category": "perro",
+    "description": "Premios para perros adultos con sabor a pollo fresco.",
+    "title": "Dogxtreme Snack Semihúmedo Pollo 200 Gr",
+    "price": "s/.22.90",
+    "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/dogxtreme-snack-semihumedo-puppy-100-gr.jpg?alt=media&token=5ee69151-9259-47aa-a8fa-e83b6327c486"
+  },
+  {
+    "id": "25",
+    "type": "accesorio",
+    "age": "todas",
+    "category": "masPequeños",
+    "description": "El Transportador Small Life es la opción ideal para que tu roedor viaje contigo allá donde vayas. Es perfecto para todo tipo de roedores pequeños como los hámsteres o las cobayas.",
+    "title": "Small Life Carrier ",
+    "price": "s/.14.95",
+    "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/PS000553_m.jpg?alt=media&token=f4f98da0-7d48-4623-bb95-e6f6a50e1cb9"
+  },
+  {
+    "id": "26",
+    "type": "accesorio",
+    "age": "todas",
+    "category": "masPequeños",
+    "description": "Bandeja higiénica con un diseño esquinero para una limpieza fácil, para pequeños roedores.",
+    "title": "Small Life Esquin S 32X22X14.5",
+    "price": "s/.29.90",
+    "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/small-life-esquin-s-32x22x145.jpg?alt=media&token=edbfdf6e-7b54-44f6-8dfd-3054005e9c0a"
+  },
+  {
+    "id": "27",
+    "type": "accesorio",
+    "age": "todas",
+    "category": "masPequeños",
+    "description": "Comedero para roedores de color verde con una capacidad de 300 ml.",
+    "title": "Small Life Comedero Roedor Cup 300Ml",
+    "price": "s/.10.00",
+    "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/small-life-comedero-roedor-cup-300ml.jpg?alt=media&token=774bab4a-55ef-427b-b5bd-e9dd5188c80c"
+  },
+  {
+    "id": "28",
+    "type": "salud",
+    "age": "todas",
+    "category": "gato",
+    "description": "Energetizante estimulante de apetito",
+    "title": "Jarabe estimulante del apetito para gatos",
+    "price": "s/.19.90",
+    "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/dragpharma-apeticat-jarabe-x-100-ml-1100851.jpg?alt=media&token=4b162bf6-2b3c-4873-89f2-3f680648f787"
+  },
+  {
+    "id": "29",
+    "type": "accesorio",
+    "age": "todas",
+    "category": "perro",
+    "description": "Comedero para mascota de madera pino con bowls de acero inoxidable.",
+    "title": "Comedero Trapecio",
+    "price": "s/.149.00",
+    "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/PS000591_m.jpg?alt=media&token=5a18f18b-6013-4a2b-a471-2747a7969831"
+  },
+  {
+    "id": "30",
+    "type": "salud",
+    "age": "adulto",
+    "category": "gato",
+    "description": "Antiparasitario externo spot on indicado para gatos. Previene y controla la infestación de pulgas.",
+    "title": "P.I. Gatos De 4 A 9kg (Antiparasitario Externo Imidacloprid)",
+    "price": "s/.19.90",
+    "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/Antiparasitario%20Externo%20Imidacloprid%20FF000562.jpg?alt=media&token=4873d33f-639a-488b-a306-d9941373cbb5"
   }
 ]
