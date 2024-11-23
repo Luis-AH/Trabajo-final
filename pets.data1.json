@@ -60,12 +60,22 @@
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/The%20Cat%20Band%20Raton%20MD005238.jpg?alt=media&token=478a32c2-3703-4711-9968-f2851c73293a"
   },
   {
+    "id": "19",
+    "type": "alimento",
+    "age": "pequeño",
+    "category": "perro",
+    "description": "Todo natural Con más calcio para obtener dientes y huesos saludables.",
+    "title": "Gnawlers Pettide Bone Snack Para Cachorro",
+    "price": "s/.9.90",
+    "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/gnawlers-pettide-bone-snack-para-cachorro.jpg?alt=media&token=6847cf04-b2cf-4f08-9cd9-0c138be503a6"
+  },
+  {
     "id": "7",
     "type": "salud",
     "age": "adulto",
     "category": "perro",
     "description": "Tableta blanda masticable altamente palatable. Antiparasitario externo de uso oral, en forma de tableta blanda masticable. 1 tableta masticable para perros de 4.5 kg a 10 kg.",
-    "title": "Proteggo 3m 250 Mg para Perro 4.5 10kg (Cja X 1 Tab",
+    "title": "Proteggo 3m 250 Mg para Perro 4.5 10kg (Cja X 1 Tab)",
     "price": "s/.127.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/proteggo-3m-250-mg-cja-x-1-tab.jpg?alt=media&token=ebcbd49d-52a8-41a3-9edb-d556a59434f5"
   },
@@ -160,6 +170,16 @@
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/mpets-poo-dog-waste-bags-white-bolsas-4x60bags.jpg?alt=media&token=ac5e932b-0488-4c2b-b0e8-9f008ea7b41a"
   },
   {
+    "id": "20",
+    "type": "salud",
+    "age": "pequeño",
+    "category": "gato",
+    "description": "Juguete para perros de vinilo en forma de un pequeño pollo.",
+    "title": "Arena para gato Tkpet aglomerante aroma talco 10 KG",
+    "price": "s/.49.90",
+    "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/HC000486_m.jpg?alt=media&token=a9334629-b393-4274-8a95-2243daf81ecd"
+  },
+  {
     "id": "17",
     "type": "alimento",
     "age": "todas",
@@ -168,5 +188,25 @@
     "title": "Churu Sabor Atún con Salmón 60Gr",
     "price": "s/.12.90",
     "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/AG000489.jpg?alt=media&token=6edf998d-fe5f-4eaf-a7dd-3861a5c0437c"
+  },
+  {
+    "id": "18",
+    "type": "alimento",
+    "age": "pequeño",
+    "category": "perro",
+    "description": "Alimento seco para Cachorros (0 a 12 meses) de razas pequeñas. Las necesidades nutricionales de estos, son elevadas debido a su mayor demanda energética por unidad de peso y estómagos más pequeños. Las fórmulas para razas pequeñas ofrecen densidad energética y nutricional superior, con ingredientes de alta digestibilidad.",
+    "title": "Canbo Cachorro Cordero Razas Pequeñas Alimento Seco Perro",
+    "price": "s/.22.90",
+    "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/-canbo-cachorro-cordero-razas-peq.jpg?alt=media&token=d3defabd-6845-439d-a79e-5abed7eed42c"
+  },
+  {
+    "id": "21",
+    "type": "alimento",
+    "age": "pequeño",
+    "category": "gato",
+    "description": "Alimento seco para gatitos sabor pollo.",
+    "title": "Equilibrio Kittens Gatitos Alimento Seco Gato",
+    "price": "s/.79.00",
+    "src": "https://firebasestorage.googleapis.com/v0/b/final-98afc.appspot.com/o/equilibrio-kittens.jpg?alt=media&token=a8a56ce5-7c2f-4f07-b43b-5e342cf91d45"
   }
 ]

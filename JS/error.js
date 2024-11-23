@@ -8,8 +8,8 @@ const Error = () => {
         allowFullScreen
       ></img>
       <br />
-      <p className="px-8 text-6xl font-semibold min-[320px]:text-center max-[600px]:text-2xl">
-        ERROR: INTÉNTELO DE NUEVO MÁS TARDE{" "}
+      <p className="px-8 text-5xl font-semibold min-[320px]:text-center max-[600px]:text-2xl">
+        ERROR DE PAGO: INTÉNTELO DE NUEVO MÁS TARDE{" "}
       </p>
     </div>
   );
